@@ -1,0 +1,17 @@
+<0:11 tambourine monkey 1
+<0:22 fork lifter 2
+<0:33 air rally 3
+<0:44 crop stomp 4
+<0:55 tambourine monkey 1
+<1:00 karate 5
+<1:05 air rally 3
+<1:16 crop stomp 4
+<1:21 karate 5
+<1:27 air rally 3
+<1:32 fork lifter 2
+<1:43 karate 5
+<1:47 crop stomp 4
+<1:54 karate 5
+<1:59 air rally 3
+<2:04 fork lifter 2
+> tambourine monkey 1
